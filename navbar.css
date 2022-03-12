@@ -1,0 +1,566 @@
+
+.container-fluid {
+  padding: 0;
+}
+
+.row {
+  margin: 0;
+}
+
+header {
+width: 100%;
+}
+
+.navbar {
+  margin-bottom: 20px;
+  background-color: white ;
+  padding-left: 7%;
+  z-index: 1000;
+}
+
+.offer {
+  padding: 0;
+}
+
+#nav-brand {
+  margin-right: 10%;
+  color: aqua;
+  margin-bottom: 10px;
+}
+
+.nav-item {
+  margin-right: 8%;
+}
+
+#navbar-nav {
+  font-weight: 700;
+}
+
+.nav-item .active {
+  border-bottom: 1px solid black;
+}
+
+.no-active:hover {
+  border-bottom: 1px solid grey;
+  transition: all 0s ease-out 0.15s ;
+}
+
+.navbar-btn {
+  text-decoration: none;
+  color: white;
+  background-color: aqua;
+  padding: 13px 25px;
+  border-radius: 50px;
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 5px;
+}
+
+#marketing {
+  margin-top: 150px;
+  color: aqua;
+  font-weight: 500;
+  padding-left: 7% ;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 500;
+  color: rgba(34, 53, 111, 1);
+  padding-top: 20px;
+}
+
+.main-text {
+  color: rgba(34, 53, 111, 1);
+  font-size: 24px;
+  padding-top: 30px;
+}
+
+.btn-first {
+  background-color: orange;
+  color: white;
+  font-size: 16px;
+  font-weight: 90px;
+  border: 0 ;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+
+.text-near-btn { 
+  color: orange;
+  font-size: 16px;
+  padding-left: 35px;
+  text-decoration: none;
+}
+
+.btns {
+  padding-top: 15px;
+}
+
+.first-img {
+  border-radius: 500px;
+  margin-bottom: 40px;
+}
+
+.main-text-block-2 {
+  font-size: 24px;
+  padding-top: 5%;
+}
+
+.main-text-block-2>span {
+  font-weight: 600;
+}
+
+.marketing-block-2 {
+  background-color: aqua;
+  color: white;
+}
+
+.block-marketing-2 {
+  padding: 5% 7% 5% 7%;
+}
+
+.col-md-4  {
+  padding: 0;
+}
+
+.about-block-3 {
+  padding-top: 100px;
+  color: rgba(34, 53, 111, 1);
+}
+
+#about {
+  font-weight: 300;
+  padding-left: 8%;
+}
+
+.about-us {
+  max-width: 500px;
+  font-weight: 600;
+  margin-right: 20%;
+}
+
+.help {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  color: rgba(34, 53, 111, 0.5);
+}
+
+.col-md {
+  padding: 0;
+  text-align: left;
+}
+
+.first-col, .second-col, .third-col, .forth-col {
+  height: 300px ;
+  margin: 72px auto;
+  border-top: 1px solid rgba(255, 255, 255, 1);
+  width: 255px;
+  position: relative;
+}
+
+.first {
+  background-color:rgba(255, 226, 222, 1) ;
+}
+.second {
+  background-color:rgba(196, 231, 105, 1) ;
+}
+.third {
+  background-color:rgba(98, 208, 223, 1) ;
+}
+.forth {
+  background-color:rgba(0, 82, 193, 1) ;
+}
+
+.point {
+  width: 9px;
+  height: 9px;
+  background-color: orange;
+  border-radius: 10px;
+  margin-top: 33px;
+  position: absolute;
+}
+
+.text {
+  position: absolute;
+  margin-top: 10px;
+  padding-left: 8%;
+  color: white;
+  font-size: 32px;
+}
+
+.first-2 {
+  background-color:rgba(34, 53, 111, 1) ;
+}
+.second-2 {
+  background-color:rgba(0, 82, 193, 1) ;
+}
+.third-2 {
+  background-color:rgb(223, 98, 175) ;
+}
+
+.first-3 {
+  background-color:rgba(98, 208, 223, 1) ;
+}
+.second-3 {
+  background-color:rgba(222, 225, 255, 1) ;
+}
+.third-3 {
+  background-color:rgba(143, 0, 255, 1) ;
+}
+
+.service {
+  margin-top: 100px;
+}
+
+.advantages {
+  margin: 50px 0;
+}
+
+#adv-item {
+  padding: 0 4.5% ;
+  margin: 2% 0;
+}
+
+.advantage {
+  padding-top: 25px;
+  color: rgba(34, 53, 111, 0.5);
+}
+
+#adv-item h3 {
+  color: rgba(34, 53, 111, 1);
+}
+
+.block-blog {
+  padding: 0 ;
+  margin-top: 20px;
+}
+
+.should {
+  color: rgba(34, 53, 111, 1);
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 60px;
+}
+
+.blog-text {
+  padding-top: 5%;
+  padding-left: 7.6%;
+}
+
+.blog {
+  color: #22356F;
+  font-size: 32px;
+  font-weight: 600;
+  padding-top: 10%;
+  padding-bottom: 20%;
+}
+
+.blog span {
+  color: aqua;
+}
+
+.text-after-blog {
+  color: orange;
+  text-decoration: none;
+}
+
+.contact-us {
+  padding-left: 7%;
+  padding-top: 4%;
+  background-color: rgba(34, 53, 111, 1);
+  color: white;
+  padding-bottom: 8%;
+}
+
+.contact-title {
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.img-3 {
+  padding: 0;
+}
+
+.contact h2 {
+  padding-top: 15%;
+  font-size: 56px;
+}
+
+.contact-txt {
+  padding-top: 5%;
+  font-size: 26px;
+  font-weight: 400;
+  padding-bottom: 13%;
+}
+
+.text-after-contact {
+  color: rgba(98, 208, 223, 1);
+  font-weight: 400;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.img-5 {
+  padding: 0;
+}
+
+.col-md-5 {
+  padding: 0;
+}
+
+.some-info {
+  padding-top: 5%;
+  padding-left: 2%;
+  padding-right: 0;
+  justify-content: space-between;
+}
+
+.cell-1, .cell-2, .cell-3 {
+  padding-left: 4%;
+  padding-top: 3%;
+}
+
+.text-contact-2  {
+  margin: 0;
+  padding-top: 14%;
+  padding-bottom: 14%;
+  color: rgba(34, 53, 111, 0.5);
+
+}
+
+.title-contact-2 {
+  font-weight: 650;
+  color: rgba(34, 53, 111, 1);
+}
+
+.text-contact-details {
+  color: rgba(34, 53, 111, 0.5);
+}
+
+.text-contact-details a {
+  text-decoration: none;
+  color: rgb(49, 117, 156);
+}
+
+.footer-text {
+  color: white;
+  background-color: aqua;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 2% 0 2% 9.9% ;
+  margin: 0;
+}
+
+.btn-first:hover {
+  background-color: rgb(230, 150, 1);
+  color: rgb(212, 212, 212);
+}
+
+.text-near-btn:hover {
+  color: rgb(223, 145, 0);
+}
+
+.text-after-blog:hover {
+  color: rgb(223, 145, 0);
+}
+
+.text-after-contact:hover {
+  color: rgb(87, 178, 190);
+}
+
+.text-contact-details>a:hover {
+color: rgb(30, 73, 97);
+}
+
+/* xl <= Extra extra large (xxl) */
+@media (max-width : 1400px) {
+  .cell-1>.text-contact-2>br {
+    display: none;
+  }
+}
+
+/* lg <= Extra large (xl) */
+@media (max-width : 1200px) {
+  .main-text {
+    font-size: 20px;
+  }
+  h1 {
+    font-size: 35px;
+  }
+  .main-text-block-2 {
+    font-size: 20px;
+  }
+  .blog {
+    font-size: 28px;
+  }
+}
+
+  /* md <= Large (lg) */
+  @media (max-width : 992px) {
+    .main-text {
+      font-size: 17px;
+    }
+    h1 {
+      font-size: 30px;
+    }
+    .main-text-block-2 {
+      font-size: 16px;
+    }
+    .title-block-2 {
+      font-size: 26px;
+    }
+    .blog {
+      font-size: 22px;
+    }
+    .should {
+      font-size: 12px;
+    }
+    .text-after-blog {
+      font-size: 13px;
+    }
+    .contact-us>h2 {
+      font-size: 50px;
+    }
+    .contact-txt {
+      font-size: 22px;
+    }
+    .text-contact-2,.text-contact-details {
+      font-size: 12px;
+    }
+    .title-contact-2 {
+      font-size: 14px;
+    }
+  }
+  /* sm <= Medium (md) */
+  @media (max-width : 767px) {
+    #marketing {
+      margin-top: 100px;
+      padding: 0;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .offer {
+      margin-bottom: 50px;
+    }
+    .text-logo {
+      font-size: 30px;
+    }
+    .second-img-block-2 {
+      margin-bottom: 5%;
+    }
+    .second-img {
+      padding: 5% 20%;
+      border-radius: 180px;
+    }
+    .block-marketing-2 {
+      text-align: center;
+    }
+    .about-block-3, #about {
+      padding: 10% 18% 0 18%;
+    }
+    #about , .about-us {
+      text-align: center;
+      margin: 0;
+      max-width: 100%;
+    }
+    .about-us {
+      padding-top: 10%;
+    }
+    #adv-item {
+      text-align: center;
+    }
+    .advantage {
+      padding: 2% 15%;
+    }
+    .block-blog {
+      text-align: center;
+    }
+    .blog-text {
+      padding: 5% 20% ;
+    }
+    .blog {
+      margin: 0;
+      padding-bottom: 15% ;
+    }
+    .blog> br {
+      display: none;
+    }
+    .img-3 {
+      padding: 7% 20%;
+      border-radius: 180px;
+    }
+    .contact-us {
+      text-align: center;
+      padding: 4% 17%;
+    }
+    .contact {
+      background-color: rgba(34, 53, 111, 1)
+    }
+    .contact-us>h2 {
+      font-size: 46px;
+    }
+    .contact-txt {
+      font-size: 19px;
+    }
+    .text-after-contact {
+      font-size: 14px;
+    }
+    .img-5 {
+      padding: 7% 20%;
+      border-radius: 180px;
+    }
+    .some-info , .cell-1 , .cell-2 , .cell-3 {
+      text-align: center;
+      padding-left: 0;
+    }
+    .some-info {
+      padding-top: 0;
+      padding-bottom: 8%;
+    }
+    .text-contact-2 {
+      padding: 1% 10% ;
+    }
+    .text > br {
+      display: none;
+    }
+    
+  }
+
+  /* xs <= Small (sm) */
+  @media (max-width : 576px) {
+    .main-text {
+      font-size: 14px;
+    }
+    .about-us {
+      text-align: justify;
+    }
+    .blog {
+      font-size: 18px;
+    }
+    .contact-us>h2 {
+      font-size: 28px;
+    }
+    .contact-txt>br {
+      display: none;
+    }
+    .contact-txt {
+      font-size: 19px;
+    }
+    .text-after-contact {
+      font-size: 14px;
+    }
+    .contact-us {
+      padding: 4% 15%;
+    }
+    .text-contact-2 {
+      padding: 3% 20% ;
+    }
+    .footer-text {
+      font-size: 11px;
+      padding-left: 0;
+      text-align: center;
+    }
+  }
